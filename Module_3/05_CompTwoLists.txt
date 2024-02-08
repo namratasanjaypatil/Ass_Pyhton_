@@ -1,0 +1,4 @@
+How will you compare two lists ?
+
+=> You can compare two lists for equality using the == operator. 
+    This will return True if the two lists have the same elements in the same order, and otherwise False .

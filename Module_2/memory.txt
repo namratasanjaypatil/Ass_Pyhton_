@@ -1,0 +1,4 @@
+How memory is managed in Python ?
+
+-> memory management in python involves a private heap containing all python object and data stuctures.
+    the management of this private heap is ensured internally by the python memory  manager.

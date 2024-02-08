@@ -1,0 +1,8 @@
+What is tuple ?
+
+=> tuple is one of the collection type datatype. 
+
+
+Difference between list and tuple ?
+
+=> list is mutable and tuple is immutable these is major diffrence.

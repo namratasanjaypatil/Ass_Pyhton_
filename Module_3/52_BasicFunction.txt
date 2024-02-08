@@ -1,0 +1,7 @@
+How Many Basic Types Of Functions Are Available In Python?
+
+==> 3 types of basic function in python:-
+
+    (1) Built in function or pre define function
+    (2) User define function
+    (3) Anonomus function

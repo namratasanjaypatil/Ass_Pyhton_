@@ -1,0 +1,4 @@
+Why Do You Use the Zip () Method in Python?
+
+==> when we merge 2 list then we use zip method 
+==> zip method convert in tuple.

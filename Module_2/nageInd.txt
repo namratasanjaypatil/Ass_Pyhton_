@@ -1,0 +1,5 @@
+What are negative indexes and why are they used ?
+
+=> negative indexing is used to in python to begin slicing from the end of the string i.e.the last. 
+   slicing in python gets a substring from a string. the slicing range is set as parameters i.e.start, 
+   stop, step
